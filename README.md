@@ -1,5 +1,6 @@
 # datastream-repo
 test1
+test2
 
 echo "# datastream-repo" >> README.md
 git init
